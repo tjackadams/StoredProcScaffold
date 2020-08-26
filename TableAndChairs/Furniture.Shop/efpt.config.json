@@ -2,11 +2,13 @@
    "ContextClassName": "FurnitureContext",
    "ContextNamespace": null,
    "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
    "IncludeConnectionString": true,
    "ModelNamespace": null,
    "OutputContextPath": "Data",
    "OutputPath": "Models",
    "ProjectRootNamespace": "Furniture.Shop",
+   "Schemas": null,
    "SelectedHandlebarsLanguage": 0,
    "SelectedToBeGenerated": 0,
    "Tables": [
@@ -27,5 +29,5 @@
    "UseLegacyPluralizer": false,
    "UseNodaTime": false,
    "UseSpatial": false,
-   "UseStoredProcedures": false
+   "UseStoredProcedures": true
 }
